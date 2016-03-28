@@ -1,0 +1,39 @@
+1. WAP for matrix multiplication
+
+2.type casting-- all three types
+
+3.multiply  2*ob
+
+4.Write  a  program  to  define  a  class  Array  that  will  contain  an  array  of  integers  as  a  private  data  member  of  the  class. Overload  the  subscript  operator  []  so  that  it  will  take  an  integer  index  as  an  argument  and  return  the  reference  of element at that index in the array.
+
+
+
+5.Write a program to overload the comma operator for a class such that for the instruction a = (b, c) the larger object of ‘c’ and ‘b’ is assigned to ‘a’.
+
+
+6.Write a program to define a class time that will represent a time period in minutes and seconds. Define member functions and overload the following operators for the following:
+	• ++ Operator that will increment the seconds by 1
+	• + Operator that will add two objects of time class
+
+7.  Two classes one is Civil_Time and Another is Railway_Time. Enter hours and minutes in Railway time(24 hour format) and display the time in Civil time(12 hour format with a.m. and p.m.) using one class type to another class type conversion.
+ 
+8.  Write a program to show the execution sequence of constructor and destructor in inheritance.
+
+9.  Write a program to demonstrate the use of "public" and "private" access specifier in inheritance.
+
+10.  Class student contains roll number, name and course as data member and Input_student and display_student as member function. A derived class exam is created from the class student with publicly inherited. The derived class contains mark1, mark2, mark3 as marks of three subjects and input_marks and display_result as member function. Create an array of object of the exam class and display the result of 2 students.  
+
+11. Try the same program with "private" access specifier in inheritance.
+
+12. Write a program to demonstrate  multilevel inheritance with the use of "protected" as an access specifier and inheritance method.
+
+
+13. Write a program to demonstrate function overriding.  
+
+14. Write a program to show the use of "virtual" class.
+
+
+15. Implement header files and use them in your source file.
+
+16. 
+
